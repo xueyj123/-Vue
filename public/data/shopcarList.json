@@ -1,0 +1,32 @@
+{
+    "list": [
+        {
+            "id": 1001,
+            "src": "/images/lun1.jpg",
+            "title": "小米Note3 人脸解锁",
+            "price": 2099,
+            "href": { "name": "detail", "params": { "id": 1001 } }
+        },
+        {
+            "id": 1002,
+            "src": "/images/pic2.jpg",
+            "title": "小米Max2 大屏大电量",
+            "price": 1999,
+            "href": { "name": "detail", "params": { "id": 1002 } }
+        },
+        {
+            "id": 1003,
+            "src": "/images/pic3.jpg",
+            "title": "小米MIX2 全面屏2.0",
+            "price": 2999,
+            "href": { "name": "detail", "params": { "id": 1003 } }
+        },
+        {
+            "id": 1004,
+            "src": "/images/pic4.jpg",
+            "title": "小米电视4A 50英寸",
+            "price": 2399,
+            "href": { "name": "detail", "params": { "id": 1004 } }
+        }
+    ]
+}

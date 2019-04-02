@@ -1,0 +1,50 @@
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+img,
+button,
+input,
+select,
+textarea 
+ {
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+    -webkit-overflow-scrolling: touch;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #000
+}
+
+button,
+input,
+select,
+textarea {
+    border: none;
+    outline: none;
+}
+ul,ol{
+    list-style: none;
+}

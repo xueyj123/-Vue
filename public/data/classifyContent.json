@@ -1,0 +1,1448 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "name": "新品",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": "11",
+                    "title": "-- 新品 --",
+                    "children": [
+                        {
+                            "id": 111,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 112,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 113,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 114,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 115,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 116,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 121,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 122,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 123,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 124,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 125,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 126,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "手机",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 21,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 211,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 212,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 213,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 214,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 215,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 216,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 221,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 222,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 223,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 224,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 225,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "电视",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 31,
+                    "title": "-- 电视 --",
+                    "children": [
+                        {
+                            "id": 311,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 312,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 313,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 314,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 315,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 316,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "title": "-- 盒子 --",
+                    "children": [
+                        {
+                            "id": 321,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 322,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 323,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 324,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 325,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 326,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "电脑",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 41,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 411,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 412,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 413,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 414,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 415,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 416,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 421,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 422,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 423,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 424,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 425,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 426,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "家电",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 51,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 511,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 512,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 513,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 514,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 515,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 516,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 521,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 522,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 523,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 524,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 525,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 526,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "智能",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 61,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 611,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 612,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 613,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 614,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 615,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 616,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 621,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 622,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 623,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 624,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 625,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 626,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "儿童",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 71,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 711,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 712,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 713,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 714,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 715,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 716,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 72,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 721,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 722,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 723,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 724,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 725,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 726,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "电源",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 81,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 811,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 812,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 813,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 814,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 815,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 816,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 82,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 821,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 822,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 823,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 824,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 825,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 826,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "耳机",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 91,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 911,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 912,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 913,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 914,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 915,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 916,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 92,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 921,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 922,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 923,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 924,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 925,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 926,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "音响",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 101,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1011,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1012,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1013,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1014,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1015,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1016,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1021,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1022,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1023,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1024,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1025,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1026,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "礼品",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 111,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1111,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1112,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1113,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 414,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1115,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1116,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 112,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1121,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1122,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1123,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1124,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1125,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1126,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "生活",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 121,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1211,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1212,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1213,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1214,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1215,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1216,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 122,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1221,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1222,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1223,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1224,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1225,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1226,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "服务",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 131,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1311,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1312,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1313,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1314,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1315,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1316,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 132,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1321,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1322,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1323,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1324,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1325,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1326,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "米粉卡",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 141,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1411,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1412,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1413,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1414,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1415,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1416,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 142,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1421,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1422,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1423,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1424,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1425,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1426,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "零售店",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 151,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1511,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1512,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1513,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1514,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1515,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1516,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 152,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1521,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1522,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1523,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1524,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1525,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1526,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "name": "零售店",
+            "bigImg": "/images/lun1.jpg",
+            "children": [
+                {
+                    "id": 161,
+                    "title": "-- 小米手机 --",
+                    "children": [
+                        {
+                            "id": 1611,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1612,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1613,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1614,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1615,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1616,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                },
+                {
+                    "id": 162,
+                    "title": "-- 红米手机 --",
+                    "children": [
+                        {
+                            "id": 1621,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1622,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1623,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1624,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1625,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        },
+                        {
+                            "id": 1626,
+                            "imgUrl": "/images/lun1.jpg",
+                            "content": "小米MIX 2S",
+                            "path": "/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

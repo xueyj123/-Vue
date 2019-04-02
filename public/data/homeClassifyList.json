@@ -1,0 +1,64 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "新品",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 2,
+            "name": "手机",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 3,
+            "name": "电视",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 4,
+            "name": "电脑",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 5,
+            "name": "家电",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 6,
+            "name": "路由",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 7,
+            "name": "智能",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 8,
+            "name": "儿童",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 9,
+            "name": "电源",
+            "src": "/images/logo.png",
+            "href": "#"
+        },
+        {
+            "id": 10,
+            "name": "分类",
+            "src": "/images/logo.png",
+            "href": { "name": "classify" }
+        }
+    ]
+}

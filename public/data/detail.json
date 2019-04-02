@@ -1,0 +1,122 @@
+{
+    "list": [
+        {
+            "address": ["江苏省", "苏州市"],
+            "img":"/images/1001/lun1.jpg",
+            "banner": [
+                { "id": 1, "src": "/images/1001/lun1.jpg", "href": "#" },
+                { "id": 2, "src": "/images/1001/lun2.jpg", "href": "#" },
+                { "id": 3, "src": "/images/1001/lun3.jpg", "href": "#" },
+                { "id": 4, "src": "/images/1001/lun4.jpg", "href": "#" }
+            ],
+            "bigContent": " 【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+            "chouse": "小米Note 3 6GB+64GB 亮黑色 x1",
+            "max": 5,
+            "hot": "/images/pic11111.jpg",
+            "id": 1001,
+            "money": 2099,
+            "noMoney": 2299,
+            "pBox": [
+                "/images/1001/221.jpg",
+                "/images/1001/222.jpg",
+                "/images/1001/223.jpg",
+                "/images/1001/224.jpg",
+                "/images/1001/225.jpg",
+                "/images/1001/226.jpg",
+                "/images/1001/227.jpg",
+                "/images/1001/228.jpg"
+            ],
+            "tips": "直降200元",
+            "smallContent": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "title": "小米Note 3  人脸解锁"
+        },
+        {
+            "id": 1002,
+            "img": "/images/1002/lun1.jpg",
+            "banner": [
+                { "id": 1, "src": "/images/1002/lun1.jpg", "href": "#" },
+                { "id": 2, "src": "/images/1002/lun2.jpg", "href": "#" },
+                { "id": 3, "src": "/images/1002/lun3.jpg", "href": "#" }
+            ],
+            "hot": "/images/pic11111.jpg",
+            "title": "小米Max 2 大屏大电量",
+            "bigContent": "【手机品牌日限时特惠：64GB直降100元，全系可享小米分期最高6期免息】",
+            "smallContent": "6.44''大屏 / 5300mAh 充电宝级的大电量 / 大像素相机 / 轻薄全金属  / ​4GB 大内存 / 骁龙八核处理器",
+            "money": 1999,
+            "noMoney": "",
+            "tips": "",
+            "chouse": "小米Max 2 4GB+128GB 金色 x1",
+            "address": ["北京市", "东城区"],
+            "pBox": [
+                "/images/1002/1.jpg",
+                "/images/1002/2.jpg",
+                "/images/1002/3.jpg",
+                "/images/1002/4.jpg",
+                "/images/1002/5.jpg",
+                "/images/1002/6.jpg"
+            ],
+            "msg": "success",
+            "max":3
+        },
+        {
+            "id": 1003,
+            "img":"/images/1003/lun1.jpg", 
+            "banner": [
+                { "id": 1, "src": "/images/1003/lun1.jpg", "href": "#" },
+                { "id": 2, "src": "/images/1003/lun2.jpg", "href": "#" },
+                { "id": 3, "src": "/images/1003/lun3.jpg", "href": "#" },
+                { "id": 4, "src": "/images/1003/lun4.jpg", "href": "#" },
+                { "id": 5, "src": "/images/1003/lun5.jpg", "href": "#" }
+            ],
+            "hot": "/images/pic11111.jpg",
+            "title": "小米MIX 2  全面屏2.0",
+            "bigContent": "【手机品牌日限时特惠：直降300元（不含斯塔克版本），全陶瓷尊享版限时特价秒杀，全系可享小米分期最高6期免息】",
+            "smallContent": "全面屏2.0，5.99\"大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段。",
+            "money": 2999,
+            "noMoney": 3299,
+            "tips": "直降300元",
+            "chouse": "小米MIX 2 6GB+64GB 黑色陶瓷 x1",
+            "address": ["北京市", "东城区"],
+            "pBox": [
+                "/images/1003/1.jpg",
+                "/images/1003/2.jpg",
+                "/images/1003/3.jpg",
+                "/images/1003/4.jpg",
+                "/images/1003/5.jpg",
+                "/images/1003/6.jpg",
+                "/images/1003/7.jpg",
+                "/images/1003/8.jpg",
+                "/images/1003/9.jpg"
+            ],
+            "msg": "success",
+            "max": 5
+        },
+        {
+            "address": ["北京市", "东城区"],
+            "img":"/images/1004/lun1.jpg",
+            "banner": [
+                { "id": 1, "src": "/images/1004/lun1.jpg", "href": "#" },
+                { "id": 2, "src": "/images/1004/lun1.jpg", "href": "#" }
+            ],
+            "bigContent": "【新品预约，享首卖直降100元！1月23日0点，小米电视品牌日限量开抢！】",
+            "chouse": "小米电视4A 50英寸 黑色 50英寸 x1",
+            "max": 6,
+            "hot": "/images/pic11111.jpg",
+            "id": 1004,
+            "money": 2399,
+            "noMoney": "",
+            "pBox": [
+                "/images/1004/pic11112.jpg",
+                "/images/1004/11113.jpg",
+                "/images/1004/11114.jpg",
+                "/images/1004/11115.jpg",
+                "/images/1004/11116.jpg",
+                "/images/1004/11117.jpg",
+                "/images/1004/11118.jpg"
+            ],
+            "smallContent": "4K HDR / 人工智能 / 蓝牙语音遥控器 / 高性能 / 大存储 / 海量片源",
+            "tips": "",
+            "title": "小米电视4A 50英寸"
+        }
+    ]
+}

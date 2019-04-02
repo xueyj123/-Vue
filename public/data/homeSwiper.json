@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "src": "/images/lun1.jpg",
+            "href": { "name": "detail", "params": { "id": 1001 } }
+        },
+        {
+            "id": 2,
+            "src": "/images/lun2.jpg",
+            "href": { "name": "detail", "params": { "id": 1002 } }
+        },
+        {
+            "id": 3,
+            "src": "/images/lun3.jpg",
+            "href": { "name": "detail", "params": { "id": 1003 } }
+        },
+        {
+            "id": 4,
+            "src": "/images/lun4.jpg",
+            "href": { "name": "detail", "params": { "id": 1004 } }
+        }
+    ]
+}
