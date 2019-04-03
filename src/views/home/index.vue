@@ -2,52 +2,36 @@
   <div class="home">
     <header class="header display-flex justify-between">
       <div class="display-flex align-item width-30">
-        <img
-          src="images/logo.png"
-          class="logo"
-        >
+        <img src="images/logo.png" class="logo" />
       </div>
       <div class="display-flex justify align-item flex-1">
-        <router-link :to="{name:'classify'}">
+        <router-link :to="{ name: 'classify' }">
           <i class="iconfont icon-search"></i>
           <span>搜索商品名称</span>
         </router-link>
       </div>
       <div class="display-flex justify align-item width-30">
-        <router-link :to="{name:'mine'}"><i class="iconfont icon-smallface "></i></router-link>
+        <router-link :to="{ name: 'mine' }"
+          ><i class="iconfont icon-smallface "></i
+        ></router-link>
       </div>
     </header>
-    <Refresh
-      class="refresh"
-      @load="getData"
-    >
+    <Refresh class="refresh" @load="getData">
       <div class="main">
-        <AppSwiper
-          :images="swiperimg"
-          class="swiper"
-        ></AppSwiper>
+        <AppSwiper :images="swiperimg" class="swiper"></AppSwiper>
         <div class="classify">
           <ul class="display-flex flex-wrap">
-            <li
-              v-for="item of classifylist"
-              :key="item.id"
-            >
+            <li v-for="item of classifylist" :key="item.id">
               <router-link :to="item.href">
                 <p>
-                  <img
-                    :src="item.src"
-                    alt
-                  >
+                  <img :src="item.src" alt />
                 </p>
-                <span>{{item.name}}</span>
+                <span>{{ item.name }}</span>
               </router-link>
             </li>
           </ul>
         </div>
-        <ListRoll
-          :newsList="newslist"
-          class="newslist"
-        ></ListRoll>
+        <ListRoll :newsList="newslist" class="newslist"></ListRoll>
         <HomeDetail class="content"></HomeDetail>
         <div class="foot">
           <p>--------我也是有底线的--------</p>
@@ -59,7 +43,7 @@
 
 <script>
 import HomeDetail from "./components/homeDetail";
-import api from '../../constant/api';
+import api from "../../constant/api";
 export default {
   name: "home",
   data() {
@@ -75,13 +59,20 @@ export default {
   methods: {
     getData(resolve) {
       // console.log(resolve())
+      if (!this.newslist.length) {
+        this.$axios.get(api.homeNewsList).then(responseData => {
+          this.newslist = responseData.data.list;
+        });
+      }
       this.$axios
         .all([
+          // this.$axios.get(api.homeNewsList),
           this.$axios.get(api.homeClassifyList),
           this.$axios.get(api.homeSwiper)
         ])
         .then(
-          this.$axios.spread(( responseData2, responseData3) => {
+          this.$axios.spread((responseData2, responseData3) => {
+            // this.newslist = responseData1.data.list
             this.classifylist = responseData2.data.list;
             this.swiperimg = responseData3.data.list;
             resolve && resolve();
@@ -91,9 +82,6 @@ export default {
   },
   created() {
     this.getData();
-    this.$axios.get("homeNewsList.json").then(responseData=>{
-      this.newslist = responseData.data.list}
-    )
   }
 };
 </script>
