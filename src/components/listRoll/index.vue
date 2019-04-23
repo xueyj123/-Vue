@@ -46,7 +46,7 @@ export default {
          let lastli = this.$refs.last.children[0].cloneNode(true);
         this.$refs.last.appendChild(lastli);
         this.timing=setInterval(() => {
-          console.log(this.$refs.last)
+          // console.log(this.$refs.last)
           this.index++;
           if (this.index === this.newsList.length) {
             setTimeout(() => {
