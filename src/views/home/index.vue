@@ -59,20 +59,20 @@ export default {
   methods: {
     getData(resolve) {
       // console.log(resolve())
-      if (!this.newslist.length) {
-        this.$axios.get(api.homeNewsList).then(responseData => {
-          this.newslist = responseData.data.list;
-        });
-      }
+      // if (!this.newslist.length) {
+      //   this.$axios.get(api.homeNewsList).then(responseData => {
+      //     this.newslist = responseData.data.list;
+      //   });
+      // }
       this.$axios
         .all([
-          // this.$axios.get(api.homeNewsList),
+          this.$axios.get(api.homeNewsList),
           this.$axios.get(api.homeClassifyList),
           this.$axios.get(api.homeSwiper)
         ])
         .then(
-          this.$axios.spread((responseData2, responseData3) => {
-            // this.newslist = responseData1.data.list
+          this.$axios.spread((responseData1,responseData2, responseData3) => {
+            this.newslist = responseData1.data.list
             this.classifylist = responseData2.data.list;
             this.swiperimg = responseData3.data.list;
             resolve && resolve();

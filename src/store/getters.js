@@ -12,7 +12,7 @@ export default {
                 }
             });
         }
-        console.log(state.shopcarList);
+        // console.log(state.shopcarList);
         return obj;
     }
 };

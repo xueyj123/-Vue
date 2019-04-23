@@ -6,7 +6,7 @@ axios.defaults.timeout = 10000;
 
 axios.interceptors.request.use(
     config => {
-        console.log(config);
+        // console.log(config);
         config.headers['Token']=storage.getInfo('token');
         return config;
     },

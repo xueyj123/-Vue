@@ -24,7 +24,8 @@ export default {
   data() {
     return {
       transitionDuration: ".5s",
-      index: 0
+      index: 0,
+      timing:null,
     };
   },
   computed: {
@@ -39,11 +40,13 @@ export default {
   },
   watch: {
     newsList() {
+     
       this.$nextTick(() => {
-        let lastli = this.$refs.last.children[0].cloneNode(true);
+         if (!this.timing) {
+         let lastli = this.$refs.last.children[0].cloneNode(true);
         this.$refs.last.appendChild(lastli);
-
-       setInterval(() => {
+        this.timing=setInterval(() => {
+          console.log(this.$refs.last)
           this.index++;
           if (this.index === this.newsList.length) {
             setTimeout(() => {
@@ -54,6 +57,10 @@ export default {
           }
           this.transitionDuration = ".5s";
         }, 1500);
+      }
+       
+
+       
       });
     }
   }

@@ -44,7 +44,7 @@ export default {
     change(index,e) {
       
       let li = e.target;
-      console.log(e);
+      // console.log(e);
       let distanse = li.offsetTop - this.$refs.tabContent.offsetHeight / 2;
       this.$refs.tabContent.scrollTop = distanse;
       this.active = index;
